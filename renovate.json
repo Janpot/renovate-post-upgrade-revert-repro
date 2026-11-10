@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "vulnerabilityAlerts": {
+    "postUpgradeTasks": {
+      "commands": ["pnpm install --lockfile-only --ignore-scripts"],
+      "fileFilters": ["**/*"],
+      "executionMode": "branch"
+    }
+  }
+}

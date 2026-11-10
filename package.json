@@ -1,0 +1,8 @@
+{
+  "name": "renovate-post-upgrade-revert-repro",
+  "private": true,
+  "packageManager": "pnpm@12.18.0",
+  "dependencies": {
+    "minimatch": "^10.2.6"
+  }
+}
