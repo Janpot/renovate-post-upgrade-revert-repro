@@ -1,2 +1,5 @@
 minimumReleaseAge: 1440
 minimumReleaseAgeExcludePrune: true
+minimumReleaseAgeExclude:
+  # Renovate security update: minimatch@11.0.1
+  - minimatch@11.0.1
