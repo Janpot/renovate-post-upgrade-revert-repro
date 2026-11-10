@@ -1,6 +1,6 @@
 # Renovate ignores a post-upgrade task that undoes a change to a file
 
-Discussion: DISCUSSION_LINK
+Discussion: https://github.com/renovatebot/renovate/discussions/47905
 
 ## Setup
 
